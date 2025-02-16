@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Redirección</title>
+</head>
+<body>
+    <h1>Formulario de Redirección</h1>
+    <form action="https://pages.github.com/" method="get">
+        <input type="submit" value="Crear nuevo contenido">
+    </form>
+</body>
+</html>
